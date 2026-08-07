@@ -1,0 +1,64 @@
+# Site settings
+locale: "en-US"
+title: "Wentao Wu | Academic Homepage"
+title_separator: "·"
+name: "Wentao Wu"
+description: "Academic homepage of Wentao Wu — computer vision, multimodal perception, UAV vision, and event-based vision."
+url: "https://vehicle-ahu.github.io"
+baseurl: ""
+repository: "Vehicle-AHU/Vehicle-AHU.github.io"
+
+# Author profile
+author:
+  avatar: "/images/profile.svg"
+  name: "Wentao Wu"
+  name_cn: "吴文滔"
+  bio: "Ph.D. student in Computer Science and Technology"
+  affiliation: "School of Artificial Intelligence, Anhui University"
+  location: "Hefei, China"
+  email: "" # Add your email, e.g. name@example.com
+  github: "https://github.com/Vehicle-AHU"
+  googlescholar: "" # Add your Google Scholar URL
+  orcid: "" # Add your ORCID URL
+  linkedin: "" # Optional
+
+# Navigation defaults
+permalink: /:categories/:title/
+markdown: kramdown
+highlighter: rouge
+
+# Collections, following the Academic Pages content model
+collections:
+  publications:
+    output: true
+    permalink: /publication/:path/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: page
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: publication
+
+# Build settings
+include:
+  - _pages
+exclude:
+  - README.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - .idea
+  - .vscode
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
