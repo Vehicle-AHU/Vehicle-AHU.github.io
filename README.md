@@ -10,7 +10,7 @@ For the organization homepage, use:
 Vehicle-AHU/Vehicle-AHU.github.io
 ```
 
-The expected site URL is:
+The expected site URL is: 
 
 ```text
 https://vehicle-ahu.github.io/
