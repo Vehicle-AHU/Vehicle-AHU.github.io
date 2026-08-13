@@ -3,8 +3,8 @@
     <img class="avatar" src="{{ site.author.avatar | relative_url }}" alt="Portrait placeholder for {{ site.author.name }}">
     <h2 class="profile-name">{{ site.author.name }}</h2>
     <div class="profile-cn">{{ site.author.name_cn }}</div>
-    <p class="profile-bio">{{ site.author.bio }}</p>
     <p class="profile-meta">{{ site.author.affiliation }}</p>
+    <p class="profile-bio">{{ site.author.bio }}</p>
     <p class="profile-meta">{{ site.author.location }}</p>
     <div class="profile-links">
       {% if site.author.email != '' %}<a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>{% endif %}
