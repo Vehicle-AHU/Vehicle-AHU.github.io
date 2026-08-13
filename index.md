@@ -9,9 +9,9 @@ hide_title: true
   <p class="eyebrow">WELCOME</p>
   <h1>Hi, I’m <span>Wentao Wu</span> <small>(吴文滔)</small>.</h1>
   <p class="hero-lead">
-    I am currently pursuing graduate study in <strong>Computer Science and Technology</strong> at the
-    <strong>School of Artificial Intelligence, Anhui University</strong>. My research interests focus on
-    multimodal foundation model pre-training, multimodal object detection, and AI for Science (AI4Science).
+    I am a <strong>Ph.D. student in Computer Science and Technology</strong> at the
+    <strong>School of Artificial Intelligence, Anhui University</strong>. My research focuses on
+    multimodal foundation model pre-training and multimodal object detection.
   </p>
 </section>
 
@@ -19,28 +19,7 @@ hide_title: true
 
 I received my undergraduate education from the **School of Energy and Mechanical Engineering, Jiangxi University of Science and Technology** from 2018 to 2022, majoring in **Software Engineering (Robotics Engineering track)**.
 
-Since 2022, I have been studying **Computer Science and Technology** at the **School of Artificial Intelligence, Anhui University**. During my master's study, I was supervised by **Prof. Chenglong Li** and **Assoc. Prof. Xiao Wang**. During my doctoral study, I am jointly trained by the **School of Artificial Intelligence, Anhui University** and the **Institute of Artificial Intelligence, Hefei Comprehensive National Science Center**, under the supervision of **Prof. Bin Luo** (Anhui University) and **Prof. Qi Liu** (University of Science and Technology of China).
-
-<div class="notice">
-<strong>Research focus.</strong> I am interested in developing generalizable multimodal foundation models and robust multimodal perception methods, and exploring their applications to scientific problems.
-</div>
-
-## Research Interests
-
-<div class="card-grid">
-  <div class="card">
-    <h3>Multimodal Foundation Model Pre-training</h3>
-    <p>Large-scale multimodal representation learning, cross-modal pre-training, and foundation models for heterogeneous visual sensing.</p>
-  </div>
-  <div class="card">
-    <h3>Multimodal Object Detection</h3>
-    <p>RGB–thermal, RGB–event, and aerial multimodal object detection with robust alignment, fusion, and small-object perception.</p>
-  </div>
-  <div class="card">
-    <h3>AI4Science</h3>
-    <p>Applying multimodal learning and foundation models to scientific discovery, intelligent sensing, and data-driven scientific problems.</p>
-  </div>
-</div>
+Since 2022, I have been studying **Computer Science and Technology** at the **School of Artificial Intelligence, Anhui University**. During my master's study, I was supervised by **Prof. Chenglong Li** and **Assoc. Prof. Xiao Wang**. I am currently a Ph.D. student jointly trained by the **School of Artificial Intelligence, Anhui University** and the **Institute of Artificial Intelligence, Hefei Comprehensive National Science Center**, under the supervision of **Prof. Bin Luo** (Anhui University) and **Prof. Qi Liu** (University of Science and Technology of China).
 
 ## Education
 
@@ -66,5 +45,6 @@ Since 2022, I have been studying **Computer Science and Technology** at the **Sc
 
 ## Updates
 
-- **2026.07** — The DRTV30K dataset and project resources are available on GitHub.
-- More research updates, publications, and academic activities can be added here as they become public.
+- **2026** — Our paper **“Large Language Model Guided Progressive Feature Alignment for Multimodal UAV Object Detection”** was published in *IEEE Transactions on Image Processing (TIP)*.
+- **2026** — Our paper **“Attribute-Guided Semantic Alignment with Pre-trained Foundation Models for Vehicle Detection”** was published in *IEEE Transactions on Intelligent Transportation Systems (T-ITS)*.
+- **2026** — Our paper **“Vehicle-centric Perception via Multimodal Structured Pre-training”** was published in *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)*.
