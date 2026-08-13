@@ -65,17 +65,6 @@ Since 2022, I have been studying **Computer Science and Technology** at the **Sc
   </div>
 </div>
 
-## Selected Research
-
-<div class="project-card">
-  <div>
-    <p class="eyebrow">DATASET · MULTIMODAL UAV PERCEPTION</p>
-    <h3>DRTV30K</h3>
-    <p>A large-scale RGB–thermal UAV object-detection dataset developed for studying robust multimodal perception in aerial scenes.</p>
-  </div>
-  <a class="button button-secondary" href="https://github.com/Vehicle-AHU/DRTV30K">Project</a>
-</div>
-
 ## Updates
 
 - **2026.07** — The DRTV30K dataset and project resources are available on GitHub.
