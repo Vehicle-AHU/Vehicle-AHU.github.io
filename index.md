@@ -10,9 +10,8 @@ hide_title: true
   <h1>Hi, I’m <span>Wentao Wu</span> <small>(吴文滔)</small>.</h1>
   <p class="hero-lead">
     I am currently pursuing graduate study in <strong>Computer Science and Technology</strong> at the
-    <strong>School of Artificial Intelligence, Anhui University</strong>. My research interests lie in
-    computer vision and deep learning, with a particular focus on multimodal perception, RGB–thermal vision,
-    UAV object detection, and event-based vision.
+    <strong>School of Artificial Intelligence, Anhui University</strong>. My research interests focus on
+    multimodal foundation model pre-training, multimodal object detection, and AI for Science (AI4Science).
   </p>
 </section>
 
@@ -23,23 +22,23 @@ I received my undergraduate education from the **School of Energy and Mechanical
 Since 2022, I have been studying **Computer Science and Technology** at the **School of Artificial Intelligence, Anhui University**. During my master's study, I was supervised by **Prof. Chenglong Li** and **Assoc. Prof. Xiao Wang**. During my doctoral study, I am jointly trained by the **School of Artificial Intelligence, Anhui University** and the **Institute of Artificial Intelligence, Hefei Comprehensive National Science Center**, under the supervision of **Prof. Bin Luo** (Anhui University) and **Prof. Qi Liu** (University of Science and Technology of China).
 
 <div class="notice">
-<strong>Research focus.</strong> I am interested in building robust visual perception systems that can reason across heterogeneous sensing modalities under challenging real-world conditions.
+<strong>Research focus.</strong> I am interested in developing generalizable multimodal foundation models and robust multimodal perception methods, and exploring their applications to scientific problems.
 </div>
 
 ## Research Interests
 
 <div class="card-grid">
   <div class="card">
-    <h3>Multimodal Perception</h3>
-    <p>Cross-modal alignment, fusion, representation learning, and robust RGB–thermal perception.</p>
+    <h3>Multimodal Foundation Model Pre-training</h3>
+    <p>Large-scale multimodal representation learning, cross-modal pre-training, and foundation models for heterogeneous visual sensing.</p>
   </div>
   <div class="card">
-    <h3>UAV Vision</h3>
-    <p>Small-object detection, oriented object detection, multimodal aerial perception, and challenging-scene understanding.</p>
+    <h3>Multimodal Object Detection</h3>
+    <p>RGB–thermal, RGB–event, and aerial multimodal object detection with robust alignment, fusion, and small-object perception.</p>
   </div>
   <div class="card">
-    <h3>Event-based Vision</h3>
-    <p>Event-camera representation learning, event-based detection and recognition, and RGB–event multimodal learning.</p>
+    <h3>AI4Science</h3>
+    <p>Applying multimodal learning and foundation models to scientific discovery, intelligent sensing, and data-driven scientific problems.</p>
   </div>
 </div>
 
