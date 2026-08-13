@@ -1,6 +1,6 @@
 <aside class="sidebar" aria-label="Profile">
   <div class="profile-card">
-    <img class="avatar" src="{{ site.author.avatar | relative_url }}" alt="Portrait placeholder for {{ site.author.name }}">
+    <img class="avatar" src="{{ site.author.avatar | relative_url }}" alt="Portrait of {{ site.author.name }}">
     <h2 class="profile-name">{{ site.author.name }}</h2>
     <div class="profile-cn">{{ site.author.name_cn }}</div>
     <p class="profile-meta">{{ site.author.affiliation }}</p>
@@ -9,7 +9,7 @@
     <div class="profile-links">
       {% if site.author.email != '' %}<a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>{% endif %}
       {% if site.author.phone != '' %}<a href="tel:{{ site.author.phone }}">{{ site.author.phone }}</a>{% endif %}
-      {% if site.author.github != '' %}<a href="{{ site.author.github }}" rel="me">GitHub</a>{% endif %}
+      {% if site.author.github != '' %}<a href="{{ site.author.github }}" rel="me"><strong>Wentao Wu</strong></a>{% endif %}
       {% if site.author.googlescholar != '' %}<a href="{{ site.author.googlescholar }}">Google Scholar</a>{% endif %}
       {% if site.author.orcid != '' %}<a href="{{ site.author.orcid }}">ORCID</a>{% endif %}
       {% if site.author.linkedin != '' %}<a href="{{ site.author.linkedin }}">LinkedIn</a>{% endif %}
