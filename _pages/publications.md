@@ -12,7 +12,7 @@ subtitle: "Publications and preprints."
     <div class="publication-year">2026</div>
     <div>
       <h3><a href="https://ieeexplore.ieee.org/document/11568942">Large Language Model Guided Progressive Feature Alignment for Multimodal UAV Object Detection</a></h3>
-      <p class="publication-authors"><strong>Wentao Wu</strong>, Chenglong Li, Xiao Wang, Bin Luo, Qi Liu</p>
+      <p class="publication-authors"><strong>Wentao Wu</strong>, Chenglong Li<sup>*</sup>, Xiao Wang, Bin Luo</p>
       <p class="publication-venue"><em>IEEE Transactions on Image Processing (TIP), 2026</em>, arXiv:2503.06948</p>
       <div class="publication-links">
         <a href="https://arxiv.org/abs/2503.06948">[arXiv]</a>
