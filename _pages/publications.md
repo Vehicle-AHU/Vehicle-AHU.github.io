@@ -1,12 +1,25 @@
 ---
 title: "Publications"
 permalink: /publications/
-subtitle: "Publications and preprints."
+subtitle: "Manuscripts under review and published works."
 ---
 
 <p class="muted">For the most up-to-date publication list, please visit my <a href="https://scholar.google.co.jp/citations?user=6m2Ya4gAAAAJ&hl=en">Google Scholar</a>. <sup>*</sup> denotes corresponding author.</p>
 
 <div class="publication-list">
+
+  <h2>Under Review</h2>
+
+  <article class="publication-item">
+    <div class="publication-year">2026</div>
+    <div>
+      <h3>CascadeCoT: Cascaded Chain-of-Thought Reasoning Network for Multimodal UAV Object Detection</h3>
+      <p class="publication-authors"><strong>Wentao Wu</strong>, Chenglong Li, Xiao Wang<sup>*</sup>, Yifei Deng, Xiaowei Zhao, Bin Luo</p>
+      <p class="publication-venue"><em>Manuscript under review, 2026</em></p>
+    </div>
+  </article>
+
+  <h2>Publications</h2>
 
   <article class="publication-item">
     <div class="publication-year">2026</div>
