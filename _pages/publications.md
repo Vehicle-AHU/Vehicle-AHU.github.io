@@ -40,7 +40,7 @@ subtitle: "Publications and preprints."
     <div class="publication-year">2026</div>
     <div>
       <h3><a href="https://doi.org/10.1109/TCSVT.2026.3663409">Vehicle-centric Perception via Multimodal Structured Pre-training</a></h3>
-      <p class="publication-authors"><strong>Wentao Wu</strong>, Xiao Wang<sup>*</sup>, Chenglong Li, Jin Tang, Bin Luo</p>
+      <p class="publication-authors"><strong>Wentao Wu</strong>, Xiao Wang<sup>*</sup>, Chenglong Li<sup>*</sup>, Jin Tang, Bin Luo</p>
       <p class="publication-venue"><em>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2026</em>, arXiv:2512.19934</p>
       <div class="publication-links">
         <a href="https://arxiv.org/abs/2512.19934">[arXiv]</a>
@@ -54,7 +54,7 @@ subtitle: "Publications and preprints."
     <div class="publication-year">2026</div>
     <div>
       <h3><a href="https://ieeexplore.ieee.org/document/11589371">Segment Any Vehicle: Semantic and Visual Context Driven SAM and A Benchmark</a></h3>
-      <p class="publication-authors">Xiao Wang, Ziwen Wang, <strong>Wentao Wu</strong>, Anjie Wang, Jiashu Wu, Yantao Pan, Chenglong Li</p>
+      <p class="publication-authors">Xiao Wang, Ziwen Wang, <strong>Wentao Wu</strong>, Anjie Wang, Jiashu Wu, Yantao Pan, Chenglong Li<sup>*</sup></p>
       <p class="publication-venue"><em>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2026</em>, arXiv:2508.04260</p>
       <div class="publication-links">
         <a href="https://arxiv.org/abs/2508.04260">[arXiv]</a>
@@ -68,7 +68,7 @@ subtitle: "Publications and preprints."
     <div class="publication-year">2026</div>
     <div>
       <h3><a href="https://arxiv.org/abs/2605.06012">T2I-VeRW: Part-level Fine-grained Perception for Text-to-Image Vehicle Retrieval</a></h3>
-      <p class="publication-authors">Xiao Wang, Ziwen Wang, Weizhe Kong, <strong>Wentao Wu</strong>, Yuehang Li, Aihua Zheng, Chenglong Li, Jin Tang</p>
+      <p class="publication-authors">Xiao Wang, Ziwen Wang, Weizhe Kong, <strong>Wentao Wu</strong>, Yuehang Li, Aihua Zheng, Chenglong Li<sup>*</sup>, Jin Tang</p>
       <p class="publication-venue"><em>arXiv preprint, 2026</em>, arXiv:2605.06012</p>
       <div class="publication-links">
         <a href="https://arxiv.org/abs/2605.06012">[arXiv]</a>
@@ -95,7 +95,7 @@ subtitle: "Publications and preprints."
     <div class="publication-year">2025</div>
     <div>
       <h3><a href="https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Object_Detection_using_Event_Camera_A_MoE_Heat_Conduction_based_CVPR_2025_paper.html">Object Detection using Event Camera: A MoE Heat Conduction based Detector and A New Benchmark Dataset</a></h3>
-      <p class="publication-authors">Xiao Wang, Yu Jin, <strong>Wentao Wu</strong>, Wei Zhang, Lin Zhu, Bo Jiang, Yonghong Tian</p>
+      <p class="publication-authors">Xiao Wang, Yu Jin, <strong>Wentao Wu</strong>, Wei Zhang, Lin Zhu, Bo Jiang<sup>*</sup>, Yonghong Tian</p>
       <p class="publication-venue"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025</em>, arXiv:2412.06647</p>
       <div class="publication-links">
         <a href="https://arxiv.org/abs/2412.06647">[arXiv]</a>
@@ -109,7 +109,7 @@ subtitle: "Publications and preprints."
     <div class="publication-year">2025</div>
     <div>
       <h3><a href="https://link.springer.com/article/10.1007/s44267-025-00080-3">Pre-training on High Definition X-ray Images: An Experimental Study</a></h3>
-      <p class="publication-authors">Xiao Wang, Yuehang Li, <strong>Wentao Wu</strong>, Jiandong Jin, Yao Rong, Bo Jiang, Chuanfu Li, Jin Tang</p>
+      <p class="publication-authors">Xiao Wang, Yuehang Li, <strong>Wentao Wu</strong>, Jiandong Jin, Yao Rong, Bo Jiang<sup>*</sup>, Chuanfu Li, Jin Tang</p>
       <p class="publication-venue"><em>Visual Intelligence, 2025</em>, arXiv:2404.17926</p>
       <div class="publication-links">
         <a href="https://arxiv.org/abs/2404.17926">[arXiv]</a>
@@ -122,7 +122,7 @@ subtitle: "Publications and preprints."
     <div class="publication-year">2025</div>
     <div>
       <h3><a href="https://arxiv.org/abs/2502.05615">XiHeFusion: Harnessing Large Language Models for Science Communication in Nuclear Fusion</a></h3>
-      <p class="publication-authors">Xiao Wang, Qingquan Yang, Fuling Wang, Qiang Chen, <strong>Wentao Wu</strong>, Yu Jin, Jingtao Jiang, Liye Jin, Bo Jiang, Dengdi Sun, Wanli Lv, Meiwen Chen, Zehua Chen, Guosheng Xu, Jin Tang</p>
+      <p class="publication-authors">Xiao Wang, Qingquan Yang, Fuling Wang, Qiang Chen, <strong>Wentao Wu</strong>, Yu Jin, Jingtao Jiang, Liye Jin, Bo Jiang<sup>*</sup>, Dengdi Sun, Wanli Lv, Meiwen Chen, Zehua Chen, Guosheng Xu, Jin Tang</p>
       <p class="publication-venue"><em>arXiv preprint, 2025</em>, arXiv:2502.05615</p>
       <div class="publication-links">
         <a href="https://arxiv.org/abs/2502.05615">[arXiv]</a>
@@ -135,7 +135,7 @@ subtitle: "Publications and preprints."
     <div class="publication-year">2024</div>
     <div>
       <h3><a href="https://ojs.aaai.org/index.php/AAAI/article/view/28373">Structural Information Guided Multimodal Pre-training for Vehicle-centric Perception</a></h3>
-      <p class="publication-authors">Xiao Wang, <strong>Wentao Wu</strong>, Chenglong Li, Zhicheng Zhao, Zhe Chen, Yukai Shi, Jin Tang</p>
+      <p class="publication-authors">Xiao Wang, <strong>Wentao Wu</strong>, Chenglong Li<sup>*</sup>, Zhicheng Zhao, Zhe Chen, Yukai Shi, Jin Tang</p>
       <p class="publication-venue"><em>AAAI Conference on Artificial Intelligence (AAAI), 2024</em>, arXiv:2312.09812</p>
       <div class="publication-links">
         <a href="https://arxiv.org/abs/2312.09812">[arXiv]</a>
@@ -149,7 +149,7 @@ subtitle: "Publications and preprints."
     <div class="publication-year">2024</div>
     <div>
       <h3><a href="https://arxiv.org/abs/2404.09516">State Space Model for New-Generation Network Alternative to Transformers: A Survey</a></h3>
-      <p class="publication-authors">Xiao Wang, Shiao Wang, Yuhe Ding, Yuehang Li, <strong>Wentao Wu</strong>, Yao Rong, Weizhe Kong, Ju Huang, Shihao Li, Haoxiang Yang, Ziwen Wang, Bo Jiang, Chenglong Li, Yaowei Wang, Yonghong Tian, Jin Tang</p>
+      <p class="publication-authors">Xiao Wang, Shiao Wang, Yuhe Ding, Yuehang Li, <strong>Wentao Wu</strong>, Yao Rong, Weizhe Kong, Ju Huang, Shihao Li, Haoxiang Yang, Ziwen Wang, Bo Jiang<sup>*</sup>, Chenglong Li, Yaowei Wang, Yonghong Tian, Jin Tang</p>
       <p class="publication-venue"><em>arXiv preprint, 2024</em>, arXiv:2404.09516</p>
       <div class="publication-links">
         <a href="https://arxiv.org/abs/2404.09516">[arXiv]</a>
