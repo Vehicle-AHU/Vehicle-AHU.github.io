@@ -14,7 +14,18 @@ subtitle: "Manuscripts under review and published works."
     <div class="publication-year">2026</div>
     <div>
       <h3>CascadeCoT: Cascaded Chain-of-Thought Reasoning Network for Multimodal UAV Object Detection</h3>
-      <p class="publication-authors"><strong>Wentao Wu</strong>, Chenglong Li, Xiao Wang<sup>*</sup>, Yifei Deng, Xiaowei Zhao, Bin Luo</p>
+      <p class="publication-authors"><strong>Wentao Wu</strong>, Chenglong Li<sup>*</sup>, Xiao Wang, Yifei Deng, Xiaowei Zhao, Bin Luo</p>
+      <p class="publication-venue"><em>Manuscript under review, 2026</em></p>
+    </div>
+  </article>
+
+  
+
+  <article class="publication-item">
+    <div class="publication-year">2026</div>
+    <div>
+      <h3>Generative Alignment Network for Multimodal UAV Object Detection</h3>
+      <p class="publication-authors"><strong>Wentao Wu</strong>, Chenglong Li<sup>*</sup>, Xiao Wang, Ziwen Wang, Xiaowei Zhao, Xiao Wang, Bin Luo</p>
       <p class="publication-venue"><em>Manuscript under review, 2026</em></p>
     </div>
   </article>
