@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#ffffff">
-  <title>{% if page.title %}{{ page.title }} {{ site.title_separator }} {% endif %}{{ site.name }}</title>
+  <title>{% if page.browser_title %}{{ page.browser_title }}{% elsif page.title %}{{ page.title }} {{ site.title_separator }} {{ site.name }}{% else %}{{ site.name }}{% endif %}</title>
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | escape }}">
   <link rel="icon" href="{{ '/images/favicon.svg' | relative_url }}" type="image/svg+xml">
   <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
