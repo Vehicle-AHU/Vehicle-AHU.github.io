@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "About Me"
+browser_title: "Wentao Wu (安徽大学 吴文滔)"
 permalink: /
 hide_title: true
 ---
